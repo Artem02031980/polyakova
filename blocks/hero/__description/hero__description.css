@@ -1,0 +1,23 @@
+.hero__description {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1.25;
+  color: var(--color-light);
+  max-width: 370px;
+}
+
+@media (max-width: 1599.98px) {
+  .hero__description {
+    font-size: 14px;
+    max-width: 340px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .hero__description {
+    color: var(--color-white);
+    max-width: 100%;
+    text-align: center;
+  }
+}

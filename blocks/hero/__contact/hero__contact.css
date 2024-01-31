@@ -1,0 +1,13 @@
+.hero__contact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+@media (max-width: 767.98px) {
+  .hero__contact{
+    margin-bottom: 4vh;
+    gap: 20px;
+  }
+}
+

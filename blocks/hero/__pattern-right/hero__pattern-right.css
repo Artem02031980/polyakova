@@ -1,0 +1,11 @@
+.hero__pattern-right {
+  height: 100px;
+  width: 100%;
+  background-color: var(--color-white);
+}
+
+@media (max-width: 1599.98px) {
+  .hero__pattern-right {
+    height: 50px;
+  }
+}

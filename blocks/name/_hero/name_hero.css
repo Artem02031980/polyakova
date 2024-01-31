@@ -1,0 +1,19 @@
+.name_hero {
+  width: max-content;
+  font-size: 36px;
+  border-bottom: 1px solid var(--color-yellow);
+  padding-bottom: 5px;
+}
+
+@media (max-width: 1599.98px) {
+  .name_hero {
+    font-size: 32px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .name_hero {
+    align-self: center;
+    font-size: 24px;
+  }
+}

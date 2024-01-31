@@ -1,0 +1,11 @@
+.hero__pattern {
+ width: 100%;
+ display: flex;
+ justify-content: space-between;
+}
+
+@media (max-width: 767.98px) {
+  .hero__pattern {
+    display: none;
+  }
+}

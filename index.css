@@ -8,6 +8,29 @@
 
 /* name */
 @import url(./blocks/name/name.css);
+@import url(./blocks/name/_hero/name_hero.css);
+
+/* social-link */
+@import url(./blocks/social-link/social-link.css);
+@import url(./blocks/social-link/_whatsapp/social-link_whatsapp.css);
+@import url(./blocks/social-link/_telegram/social-link_telegram.css);
+@import url(./blocks/social-link/_vk/social-link_vk.css);
+
+/* hero */
+@import url(./blocks/hero/hero.css);
+@import url(./blocks/hero/__header/hero__header.css);
+@import url(./blocks/hero/__info/hero__info.css);
+@import url(./blocks/hero/__info-article/hero__info-article.css);
+@import url(./blocks/hero/__title/hero__title.css);
+@import url(./blocks/hero/__description/hero__description.css);
+@import url(./blocks/hero/__contact/hero__contact.css);
+@import url(./blocks/hero/__phone/hero__phone.css);
+@import url(./blocks/hero/__social/hero__social.css);
+@import url(./blocks/hero/__pattern/hero__pattern.css);
+@import url(./blocks/hero/__pattern-center/hero__pattern-center.css);
+@import url(./blocks/hero/__pattern-left/hero__pattern-left.css);
+@import url(./blocks/hero/__pattern-right/hero__pattern-right.css);
+
 
 
 

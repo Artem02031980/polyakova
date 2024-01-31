@@ -1,0 +1,18 @@
+.social-link {
+  width: 25px;
+  height: 25px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transition: opacity .2s ease;
+}
+
+.social-link:hover {
+  opacity: .7;
+}
+
+@media (max-width: 767.98px) {
+  .social-link{
+    width: 42px;
+    height: 42px;
+  }
+}

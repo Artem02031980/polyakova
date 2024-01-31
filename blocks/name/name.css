@@ -1,4 +1,7 @@
 .name {
   font-family: 'Marck Script', cursive;
+  font-weight: 400;
   color: var(--color-yellow);
+  margin: 0;
+  padding: 0;
 }

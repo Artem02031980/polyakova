@@ -1,0 +1,28 @@
+.hero__header {
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% - 50px*2);
+  margin: 0 auto;
+}
+
+@media (max-width: 1599.98px) {
+  .hero__header {
+    width: calc(100% - 40px*2);
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .hero__header {
+    width: calc(100% - 20px*2);
+  }
+}
+
+@media (max-width: 767.98px) {
+  .hero__header {
+    width: calc(100% - 10px*2);
+    flex-direction: column;
+    height: 100vh;
+    /* padding-top: 6.25vh;
+    padding-bottom: 4vh; */
+  }
+}
