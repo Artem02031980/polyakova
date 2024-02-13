@@ -16,6 +16,18 @@
 @import url(./blocks/social-link/_telegram/social-link_telegram.css);
 @import url(./blocks/social-link/_vk/social-link_vk.css);
 
+/* title */
+@import url(./blocks/title/title.css);
+
+/* subtitle */
+@import url(./blocks/subtitle/subtitle.css);
+
+/* container */
+@import url(./blocks/container/container.css);
+
+/* button */
+@import url(./blocks/button/button.css);
+
 /* hero */
 @import url(./blocks/hero/hero.css);
 @import url(./blocks/hero/__header/hero__header.css);
@@ -31,6 +43,24 @@
 @import url(./blocks/hero/__pattern-left/hero__pattern-left.css);
 @import url(./blocks/hero/__pattern-right/hero__pattern-right.css);
 
+/* popular */
+@import url(./blocks/popular/popular.css);
+@import url(./blocks/popular/__cards/popular__cards.css);
+@import url(./blocks/popular/__card/popular__card.css);
+@import url(./blocks/popular/__pic/popular__card-pic.css);
+@import url(./blocks/popular/__card-article/popular__card-article.css);
+@import url(./blocks/popular/__card-title/popular__card-title.css);
+@import url(./blocks/popular/__card-subtitle/popular__card-subtitle.css);
+@import url(./blocks/popular/__card-more/popular__card-more.css);
+@import url(./blocks/popular/__card-more-line/popular__card-more-line.css);
+@import url(./blocks/popular/__card-more-title/popular__card-more-title.css);
+@import url(./blocks/popular/__card-more-description/popular__card-more-description.css);
+
+
+
+
+/* more */
+@import url(./blocks/more/more.css);
 
 
 

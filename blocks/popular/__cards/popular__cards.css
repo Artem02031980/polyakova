@@ -1,0 +1,28 @@
+.popular__cards {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+
+@media (max-width: 1599.98px) {
+  .popular__cards {
+    gap: 25px;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .popular__cards {
+    flex-direction: column;
+    gap: 0;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .popular__cards {
+    gap: 40px;
+  }
+}

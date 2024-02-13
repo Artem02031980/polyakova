@@ -1,0 +1,25 @@
+.popular {
+  margin-top: -25px;
+  margin-bottom: 100px;
+}
+
+@media (max-width: 1599.98px) {
+  .popular {
+    margin-top: -15px;
+    margin-bottom: 90px;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .popular {
+    margin-top: -10px;
+    margin-bottom: 70px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .popular {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
