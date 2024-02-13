@@ -22,7 +22,5 @@
     width: calc(100% - 10px*2);
     flex-direction: column;
     height: 100vh;
-    /* padding-top: 6.25vh;
-    padding-bottom: 4vh; */
   }
 }
