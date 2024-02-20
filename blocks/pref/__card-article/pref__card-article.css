@@ -1,0 +1,28 @@
+.pref__card-article {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+@media (max-width: 1599.98px) {
+  .pref__card-article {
+    gap: 15px;
+    padding-left: 20px;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .pref__card-article {
+    justify-content: center;
+    width: auto;
+    gap: 5px;
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .pref__card-article {
+    width: 100%;
+    gap: 20px;
+  }
+}

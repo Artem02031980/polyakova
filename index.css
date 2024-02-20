@@ -18,6 +18,8 @@
 
 /* title */
 @import url(./blocks/title/title.css);
+@import url(./blocks/title/_pref/title_pref.css);
+@import url(./blocks/title/__strong/title__strong.css);
 
 /* subtitle */
 @import url(./blocks/subtitle/subtitle.css);
@@ -55,6 +57,17 @@
 @import url(./blocks/popular/__card-more-line/popular__card-more-line.css);
 @import url(./blocks/popular/__card-more-title/popular__card-more-title.css);
 @import url(./blocks/popular/__card-more-description/popular__card-more-description.css);
+
+/* pref */
+@import url(./blocks/pref/pref.css);
+@import url(./blocks/pref/__cards/pref__cards.css);
+@import url(./blocks/pref/__card/pref__card.css);
+@import url(./blocks/pref/__card-pic/pref__card-pic.css);
+@import url(./blocks/pref/__card-article/pref__card-article.css);
+@import url(./blocks/pref/__card-title/pref__card-title.css);
+@import url(./blocks/pref/__card-description/pref__card-description.css);
+
+
 
 /* SLIDER */
 @import url(./blocks/slider/slider.css);
