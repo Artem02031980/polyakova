@@ -1,0 +1,4 @@
+.slider__wrapper {
+  display: flex;
+  box-sizing: content-box;
+}

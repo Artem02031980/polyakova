@@ -56,12 +56,21 @@
 @import url(./blocks/popular/__card-more-title/popular__card-more-title.css);
 @import url(./blocks/popular/__card-more-description/popular__card-more-description.css);
 
+/* SLIDER */
+@import url(./blocks/slider/slider.css);
+@import url(./blocks/slider/__title/slider__title.css);
+@import url(./blocks/slider/__title-strong/slider__title-strong.css);
+@import url(./blocks/slider/__wrapper/slider__wrapper.css);
+@import url(./blocks/slider/__slide/__slider__slide.css);
+@import url(./blocks/slider/__pic/slider__pic.css);
+@import url(./blocks/slider/__article/slider__article.css);
+@import url(./blocks/slider/__slide-title/slider__slide-title.css);
+@import url(./blocks/slider/__slide-target/slider__slide-target.css);
+@import url(./blocks/slider/__slide-list/slider__slide-list.css);
+@import url(./blocks/slider/__slide-list-item/slider__slide-list-item.css);
+@import url(./blocks/slider/__slide-description/slider__slide-description.css);
+@import url(./blocks/slider/__pagination/slider__pagination.css);
 
-
-
-/* more */
+/* MORE */
 @import url(./blocks/more/more.css);
-
-
-
 

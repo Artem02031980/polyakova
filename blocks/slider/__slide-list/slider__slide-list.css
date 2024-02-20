@@ -1,0 +1,31 @@
+.slider__slide-list{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding-left: 50px;
+}
+
+@media (max-width: 1599.98px) {
+  .slider__slide-list {
+    font-size: 14px;
+    gap: 5px;
+    padding-left: 40px;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .slider__slide-list {
+    padding-left: auto;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .slider__slide-list {
+    display: none;
+  }
+}

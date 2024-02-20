@@ -20,3 +20,24 @@ for (btn of btnsMore) {
 
   });
 }
+
+
+//SWIPER
+
+const swiper = new Swiper('.swiper', {
+
+  direction: 'horizontal',
+  loop: true,
+  speed: 1000,
+  effect: 'slider',
+
+  pagination: {
+    el: '.swiper-pagination',
+    clickable: true,
+  },
+
+  autoplay: {
+    delay: 20000,
+  },
+
+});

@@ -1,0 +1,28 @@
+.slider__slide-title {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+@media (max-width: 1599.98px) {
+  .slider__slide-title {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .slider__slide-title {
+    font-size: 24px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .slider__slide-title {
+    font-size: 20px;
+    width: calc(100% - 10px);
+  }
+}
