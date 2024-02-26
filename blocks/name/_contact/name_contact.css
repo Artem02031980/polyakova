@@ -1,0 +1,22 @@
+.name_contact {
+  width: max-content;
+  font-size: 32px;
+}
+
+@media (max-width: 1599.98px) {
+  .name_contact {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .name_contact {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .name_contact {
+    font-size: 20px;
+  }
+}

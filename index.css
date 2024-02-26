@@ -4,6 +4,7 @@
 /* name */
 @import url(./blocks/name/name.css);
 @import url(./blocks/name/_hero/name_hero.css);
+@import url(./blocks/name/_contact/name_contact.css);
 
 /* social-link */
 @import url(./blocks/social-link/social-link.css);
@@ -61,6 +62,13 @@
 @import url(./blocks/pref/__card-article/pref__card-article.css);
 @import url(./blocks/pref/__card-title/pref__card-title.css);
 @import url(./blocks/pref/__card-description/pref__card-description.css);
+
+/* contact */
+@import url(./blocks/contact/contact.css);
+@import url(./blocks/contact/__container/contact__container.css);
+@import url(./blocks/contact/__description/contact__description.css);
+@import url(./blocks/contact/__phone/contact__phone.css);
+@import url(./blocks/contact/__social/contact__social.css);
 
 
 
