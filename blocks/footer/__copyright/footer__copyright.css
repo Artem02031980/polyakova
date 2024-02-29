@@ -1,0 +1,26 @@
+.footer__copyright {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--color-light);
+}
+
+@media (max-width: 1599.98px) {
+  .footer__copyright {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 1023.98px) {
+  .footer__copyright {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .footer__copyright {
+    text-align: center;
+  }
+}
