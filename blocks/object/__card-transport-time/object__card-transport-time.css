@@ -1,0 +1,22 @@
+.object__card-transport-time {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--color-grey);
+  margin-right: 10px;
+}
+
+.object__card-transport-time::after {
+  content: ' минут';
+}
+
+@media (max-width: 767.98px) {
+  .object__card-transport-time {
+    font-weight: 400;
+  }
+
+  .object__card-transport-time::after {
+    content: ' мин.';
+  }
+
+}

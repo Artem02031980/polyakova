@@ -1,0 +1,22 @@
+.object__card-transport-station {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--color-grey);
+  margin-right: 10px;
+}
+
+.object__card-transport-station::before {
+  content: 'м. ';
+}
+
+@media (max-width: 767.98px) {
+  .object__card-transport-station {
+    font-weight: 400;
+  }
+
+  .object__card-transport-station::before {
+    content: 'м.';
+  }
+
+}

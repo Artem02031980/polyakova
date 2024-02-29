@@ -45,7 +45,7 @@
 @import url(./blocks/popular/popular.css);
 @import url(./blocks/popular/__cards/popular__cards.css);
 @import url(./blocks/popular/__card/popular__card.css);
-@import url(./blocks/popular/__pic/popular__card-pic.css);
+@import url(./blocks/popular/__card-pic/popular__card-pic.css);
 @import url(./blocks/popular/__card-article/popular__card-article.css);
 @import url(./blocks/popular/__card-title/popular__card-title.css);
 @import url(./blocks/popular/__card-subtitle/popular__card-subtitle.css);
@@ -69,6 +69,37 @@
 @import url(./blocks/contact/__description/contact__description.css);
 @import url(./blocks/contact/__phone/contact__phone.css);
 @import url(./blocks/contact/__social/contact__social.css);
+
+/* object */
+@import url(./blocks/object/object.css);
+@import url(./blocks/object/__cards/object__cards.css);
+@import url(./blocks/object/__card/object__card.css);
+@import url(./blocks/object/__card-pic/object__card-pic.css);
+@import url(./blocks/object/__card-article/object__card-article.css);
+@import url(./blocks/object/__card-title/object__card-title.css);
+@import url(./blocks/object/__card-date/object__card-date.css);
+@import url(./blocks/object/__card-place/object__card-place.css);
+@import url(./blocks/object/__card-developer/object__card-developer.css);
+@import url(./blocks/object/__card-list/object__card-list.css);
+@import url(./blocks/object/__card-list-item/object__card-list-item.css);
+@import url(./blocks/object/__card-list-item-name/object__card-list-item-name.css);
+@import url(./blocks/object/__card-list-item-meter/object__card-list-item-meter.css);
+@import url(./blocks/object/__card-list-item-price/object__card-list-item-price.css);
+@import url(./blocks/object/__card-transport/object__card-transport.css);
+@import url(./blocks/object/__card-transport-circle/object__card-transport-circle.css);
+@import url(./blocks/object/__card-transport-circle/object__card-transport-circle_violet.css);
+@import url(./blocks/object/__card-transport-circle/object__card-transport-circle_red.css);
+@import url(./blocks/object/__card-transport-circle/object__card-transport-circle_green.css);
+@import url(./blocks/object/__card-transport-circle/object__card-transport-circle_blue.css);
+@import url(./blocks/object/__card-transport-station/object__card-transport-station.css);
+@import url(./blocks/object/__card-transport-icon/object__card-transport-icon.css);
+@import url(./blocks/object/__card-transport-icon/object__card-transport-icon_car.css);
+@import url(./blocks/object/__card-transport-icon/object__card-transport-icon_walk.css);
+@import url(./blocks/object/__card-transport-time/object__card-transport-time.css);
+
+
+@import url(./blocks/object/__card-link/object__card-link.css);
+
 
 
 

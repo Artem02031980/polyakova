@@ -1,0 +1,15 @@
+.object__card-developer {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 25px;
+}
+
+.object__card-developer::before {
+  content: 'Застройщик:';
+  padding-right: 5px;
+  color: var(--color-grey);
+}
