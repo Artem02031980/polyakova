@@ -47,5 +47,5 @@ const swiper = new Swiper('.swiper', {
 
 const currentYear = new Date().getFullYear();
 document.querySelectorAll('.current-year').forEach(element => {
-  element.innerHTML = currentYear;
+  element.textContent = currentYear;
 });

@@ -22,16 +22,9 @@
 	text-align: center;
 }
 
-
 @media (max-width: 1599.98px) {
   .popular__card-more-line {
     padding-top: 0;
-  }
-}
-
-@media (max-width: 1023.98px) {
-  .popular__card-more-line {
-
   }
 }
 
