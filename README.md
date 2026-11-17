@@ -10,8 +10,6 @@
 
 <br />
 
-***
-
 ## Что это
 
 Одностраничный сайт риэлтора и юриста по недвижимости: услуги, подборка льготных
@@ -19,8 +17,6 @@
 Реальный заказчик, реальный контент, продакшн-сборка без фреймворков.
 
 <br />
-
-***
 
 ## Ключевые решения
 
@@ -160,8 +156,6 @@ Pages. Быстрая проверка возможна и двойным ще�
 | [Живой сайт](https://artem02031980.github.io/polyakova/) | Текущая версия, GitHub Pages |
 | [Макет в Figma](https://www.figma.com/file/VDLyHVFoucguniYabXjv4X/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%9F%D0%BE%D0%BB%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0?type=design%26node-id=0%3A1%26mode=design%26t=d4RWefZijv1d0Za2-1) | Исходный дизайн проекта |
 | [Репозиторий](https://github.com/Artem02031980/polyakova/) | Исходный код, ветка `main` |
-
-***
 
 **Хмелев Артём** — дизайнер и HTML-верстальщик
 [artem0203@yandex.ru](mailto:artem0203@yandex.ru)
